@@ -5,4 +5,5 @@ Graphing calculator application for the final project for CSC 335
 
 ## How to Run
 Download calculator.jar from master
+
 Run jar file
